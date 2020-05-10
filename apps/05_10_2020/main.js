@@ -12,7 +12,7 @@ document.body.appendChild( renderer.domElement );
 var geometry = new THREE.BoxGeometry();
 var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 var cube = new THREE.Mesh( geometry, material );
-scene.add( cube );
+// scene.add( cube );
 
 // add IcosahedronGeometry
 
@@ -33,8 +33,8 @@ function animate() {
   icosahedron.rotation.y += 0.01;
 
   // demo cube
-  cube.rotation.x += 0.01;
-  cube.rotation.y += 0.01;
+  // cube.rotation.x += 0.01;
+  // cube.rotation.y += 0.01;
 
 	renderer.render( scene, camera );
 }

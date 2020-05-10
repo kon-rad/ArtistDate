@@ -1,0 +1,22 @@
+{
+  "name": "artistdate",
+  "version": "1.0.0",
+  "description": "'weekly artist date creations'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kon-rad/ArtistDate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kon-rad/ArtistDate/issues"
+  },
+  "homepage": "https://github.com/kon-rad/ArtistDate#readme",
+  "dependencies": {
+    "three": "^0.116.1"
+  }
+}
