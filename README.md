@@ -12,4 +12,12 @@ The artists date, is setting aside some time each week to nourish the inner arti
 In this repository I record my weekly artist date projects, where I spend about an hour or so building something just to explore and play with tools and technology. This is about cultivating the artistic muscles of play and creativity. 
 
 
+> "Every child is an artist. The problem is how to remain an artist once he grows up."
+
+Pablo Picasso
+
+> "The most potent muse of all is our own inner child."
+
+Stephen Nachmanovitch
+
 
