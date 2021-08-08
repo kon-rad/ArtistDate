@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  display: flex;
+  background-color: yellow;
+}
+.container div {
+  height: 100px;
+  width: 200px;
+  margin: 10px;
+  background-color: green;
+  border-radius: 6px;
+}
